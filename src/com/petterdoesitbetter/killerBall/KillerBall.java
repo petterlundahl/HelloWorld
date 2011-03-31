@@ -15,6 +15,8 @@ public class KillerBall extends Activity {
 	private KillerBallView killerBallView;
 	private SensorManager sensorManager;
     private Sensor sensor;
+    
+    //Petter does it better fo' sho'!!!
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
